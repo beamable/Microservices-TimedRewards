@@ -1,0 +1,19 @@
+{
+  "name": "com.beamable.microservices.timedrewards",
+  "version": "0.0.0",
+  "displayName": "Timed Rewards Microservice",
+  "description": "A Beamable Microservice to give players daily or timed inventory rewards.",
+  "unity": "2018.4",
+  "keywords": [
+    "beamable",
+    "microservices",
+    "server",
+    "timedrewards"
+  ],
+  "author": "Beamable <info@beamable.com> (https://www.beamable.com)",
+  "license": "ISC",
+  "dependencies": {
+    "com.beamable": "0.11.0",
+    "com.beamable.server": "0.11.0"
+  }
+}
