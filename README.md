@@ -4,7 +4,7 @@
 
 This **Unity Custom Package** is a Beamable Microservice intended for use in a Unity project with the "Beamable SDK for Unity".
 
-**Microservice**
+### Microservice
 This Microservice grants timed login rewards to players. Configure a piece of `TimedRewards` content, and call the `Claim` method on the microservice. 
 
 **Project Configuration**
