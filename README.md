@@ -14,10 +14,8 @@ This **Unity Custom Package** is a Beamable Microservice intended for use in a U
 * [`CHANGELOG.md`](./CHANGELOG.md) - Record of all notable changes made to a project
 * [`package.json`](./package.json) - Defines package details and dependencies
 
-https://github.com/beamable/Microservices-TimedRewards/blob/main/
-
 **Beamable SDK**
-* **Not Included**: This project does not include the Beamable SDK for Unity
+* **Not Included**: This project does not include the "Beamable SDK for Unity"
 
 ### What is Beamable?
 Beamable is the low-code option for rapidly adding social, 
