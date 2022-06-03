@@ -9,7 +9,7 @@ This **Unity Custom Package** is a Beamable Microservice intended for use in a U
 * **Usage** - Configure a piece of `TimedRewards` Beamable content. Call the `Claim` method on the Microservice
 
 **Project Configuration**
-* See [Distributing A Microservice](https://docs.beamable.com/docs/guide-distributing-a-microservice) for more info
+* See [Distributing A Microservice](https://docs.beamable.com/docs/microservices-distributing) for more info
 
 **Project Structure**
 * [`README.md`](./README.md) - This README file
