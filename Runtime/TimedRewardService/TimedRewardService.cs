@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace Beamable.Server
+namespace Beamable.Server.TimedRewardService
 {
    [Microservice("TimedRewardService")]
    public class TimedRewardService : Microservice
